@@ -1,0 +1,48 @@
+#nine
+{
+	width: 30px;
+}
+.navbar
+{
+	background-color: #000;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover
+{
+	background-color: hsla(0,0%,100%,.2);
+}
+.pon li
+{
+	list-style: none;
+	display: inline;
+}
+.comm
+{
+	margin-left: 5%;
+}
+.sym
+{
+	font-size: 3rem;
+	color: #cccccc;
+	margin-left: 3%;
+}
+.rt
+{
+	margin-top: 1%;
+}
+.top-3
+{
+	margin-top: 2%;
+}
+.social
+{
+	margin-top: 2%;
+}
+.abc
+{
+	width: 478px;
+	height: 580px;
+}
+.lm
+{
+	border-radius: 40%;
+}
